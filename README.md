@@ -39,3 +39,34 @@ Departemen HR tidak memiliki visualisasi yang menampilkan tingkat pergantian kar
 <a href="https://github.com/ifanapridarahman/HR_Analytics_Dashboard_Power-BI/blob/main/HR%20Analytics%20Dashboard_Power%20BI.png">Dashboard</a>
 ![HR Analytics Dashboard_Power BI](https://github.com/user-attachments/assets/d8816f50-70e0-47b6-8ace-42c30b49730f)
 
+## Insight Utama
+1. **Gambaran Umum Karyawan dan Tingkat Attrition**
+- Tingkat attrition cukup tinggi (16,12%), menunjukkan adanya potensi masalah dalam retensi karyawan.
+- Mayoritas karyawan aktif adalah 1.233 orang, artinya ada kebutuhan untuk merekrut atau menggantikan posisi yang kosong.
+2. **Attrition Berdasarkan Departemen**
+- Tingkat pergantian karyawan di R&D dan Sales sangat tinggi → Kemungkinan karena tekanan kerja yang besar atau kurangnya kepuasan kerja.
+- Perlu strategi retensi karyawan di divisi R&D dan Sales, seperti peningkatan kompensasi, peluang pengembangan karier, atau evaluasi kepuasan kerja.
+3. **Distribusi Karyawan Berdasarkan Usia dan Gender**
+- Mayoritas karyawan berada di usia produktif (25-34 tahun), tetapi mereka juga memiliki tingkat attrition tertinggi.
+- Perlu strategi pengembangan karier untuk mempertahankan karyawan muda, seperti program pelatihan dan peluang promosi.
+4. **Attrition Berdasarkan Usia dan Gender**
+- Attrition tertinggi terjadi pada karyawan muda (di bawah 35 tahun) → Bisa jadi karena kurangnya kepuasan kerja, peluang pengembangan karier, atau penawaran kerja yang lebih baik dari perusahaan lain.
+- Program retensi perlu difokuskan pada karyawan muda, seperti mentoring, kenaikan gaji, dan insentif jangka panjang.
+5. **Attrition Berdasarkan Bidang Pendidikan**
+- Karyawan dengan latar belakang Life Sciences & Medical lebih banyak keluar → Bisa jadi karena kompetisi ketat di industri atau kurangnya kesempatan karier di perusahaan ini.
+- Bisa dilakukan riset lebih lanjut untuk memahami alasan keluar dan menawarkan benefit lebih menarik bagi mereka.
+6. **Kepuasan Berdasarkan Posisi**
+- Karyawan dengan kepuasan kerja rendah cenderung memiliki tingkat attrition lebih tinggi, terutama di Sales dan Healthcare.
+-  Perusahaan perlu meningkatkan kesejahteraan dan lingkungan kerja bagi posisi-posisi dengan kepuasan rendah, misalnya dengan peningkatan kompensasi, fleksibilitas kerja, atau pelatihan keterampilan tambahan.
+
+## Kesimpulan dan Rekomendasi
+1. **Fokus pada Retensi Karyawan Muda**
+- Karyawan usia di bawah 35 tahun memiliki tingkat keluar tertinggi -> Bisa diberikan program pelatihan, intensif, dan jalur promosi untuk mempertahankan mereka
+2. **Meningkatkan Retensi di R&D dan Sales**
+- R&D dan Sales memiliki tingkat keluar tertinggi → Bisa jadi karena beban kerja atau kurangnya kepuasan kerja.
+- Perlu survei kepuasan kerja dan peningkatan benefit untuk meningkatkan retensi di divisi ini.
+3. **Evaluasi Job Satisfaction**
+- Sales Representative & Healthcare Representative memiliki kepuasan rendah → Bisa diberikan bonus performa atau skema kerja yang lebih fleksibel.
+- Posisi Manager & Research Director memiliki kepuasan tinggi → Bisa dijadikan benchmark untuk meningkatkan kepuasan di posisi lainnya.
+4. **Strategi Pengembangan Karier untuk Karyawan Muda**
+- Karena mayoritas karyawan berada di usia 25-34 tahun, program pengembangan karier bisa dibuat untuk meningkatkan keterikatan mereka dengan perusahaan.
